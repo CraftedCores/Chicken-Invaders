@@ -40,7 +40,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Pygame](www.pygame.org)
-* [Pycharm]([www.pygame.org](https://www.jetbrains.com/pycharm/))
+* [Pycharm](https://www.jetbrains.com/pycharm)
 
 ## Future Work
 
